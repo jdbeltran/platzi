@@ -1,0 +1,11 @@
+C:\Users\Josue-TI\Documents\Platzi\CorEscuela\bin\Debug\netcoreapp2.1\CorEscuela.deps.json
+C:\Users\Josue-TI\Documents\Platzi\CorEscuela\bin\Debug\netcoreapp2.1\CorEscuela.runtimeconfig.json
+C:\Users\Josue-TI\Documents\Platzi\CorEscuela\bin\Debug\netcoreapp2.1\CorEscuela.runtimeconfig.dev.json
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\bin\Debug\netcoreapp2.1\CorEscuela.dll
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\bin\Debug\netcoreapp2.1\CorEscuela.pdb
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.csprojAssemblyReference.cache
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.csproj.CoreCompileInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.AssemblyInfoInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.AssemblyInfo.cs
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.dll
+c:\Users\Josue-TI\Documents\Platzi\CorEscuela\obj\Debug\netcoreapp2.1\CorEscuela.pdb

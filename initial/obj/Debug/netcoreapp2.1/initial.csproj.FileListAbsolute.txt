@@ -1,0 +1,11 @@
+C:\Users\Josue-TI\Documents\Platzi\initial\bin\Debug\netcoreapp2.1\initial.deps.json
+C:\Users\Josue-TI\Documents\Platzi\initial\bin\Debug\netcoreapp2.1\initial.runtimeconfig.json
+C:\Users\Josue-TI\Documents\Platzi\initial\bin\Debug\netcoreapp2.1\initial.runtimeconfig.dev.json
+c:\Users\Josue-TI\Documents\Platzi\initial\bin\Debug\netcoreapp2.1\initial.dll
+c:\Users\Josue-TI\Documents\Platzi\initial\bin\Debug\netcoreapp2.1\initial.pdb
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.csprojAssemblyReference.cache
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.csproj.CoreCompileInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.AssemblyInfoInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.AssemblyInfo.cs
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.dll
+c:\Users\Josue-TI\Documents\Platzi\initial\obj\Debug\netcoreapp2.1\initial.pdb

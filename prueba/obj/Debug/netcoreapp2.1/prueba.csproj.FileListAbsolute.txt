@@ -1,0 +1,11 @@
+C:\Users\Josue-TI\Documents\Platzi\prueba\bin\Debug\netcoreapp2.1\prueba.deps.json
+C:\Users\Josue-TI\Documents\Platzi\prueba\bin\Debug\netcoreapp2.1\prueba.runtimeconfig.json
+C:\Users\Josue-TI\Documents\Platzi\prueba\bin\Debug\netcoreapp2.1\prueba.runtimeconfig.dev.json
+c:\Users\Josue-TI\Documents\Platzi\prueba\bin\Debug\netcoreapp2.1\prueba.dll
+c:\Users\Josue-TI\Documents\Platzi\prueba\bin\Debug\netcoreapp2.1\prueba.pdb
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.csprojAssemblyReference.cache
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.csproj.CoreCompileInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.AssemblyInfoInputs.cache
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.AssemblyInfo.cs
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.dll
+c:\Users\Josue-TI\Documents\Platzi\prueba\obj\Debug\netcoreapp2.1\prueba.pdb
